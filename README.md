@@ -4,7 +4,7 @@ My other hobbies are - among others - programming, playing badminton, playing mu
 
 # Projects
 
-[![Spice#](images/spicesharp_banner_hires.png)](https://github.com/SpiceSharp/SpiceSharp)
+[![Spice#](https://github.com/svenboulanger/svenboulanger/blob/master/images/spicesharp_banner_hires.png?raw=true)](https://github.com/SpiceSharp/SpiceSharp)
 
 [Spice#](https://github.com/SpiceSharp/SpiceSharp) is a cross-platform circuit simulator written in C#.  The framework should be compatible with models written for Berkeley Spice.
 
